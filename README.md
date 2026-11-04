@@ -149,7 +149,7 @@ For each practical lab, I aim to include:
 
 ## 🎥 YouTube Playlis
 
-- YouTube: [My YouTube Channel](YOUR_YOUTUBE_LINK)
+- YouTube: [My YouTube Channel](https://www.youtube.com/playlist?list=PLIEgi_iIRtLI)
 
 
 ## 📈 Project Progress
