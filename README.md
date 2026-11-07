@@ -1,6 +1,6 @@
 # Windows Server Administration – Practical Learning Journey
 
-## 📌 Project Overview
+## 📌 Overview
 
 Welcome to my Windows Server Administration Practical Learning Journey!
 
@@ -12,7 +12,12 @@ The primary goal of this project is to develop practical skills in Windows Serve
 
 All topics will be documented with step-by-step configurations, commands, screenshots, lab topologies, and practical results.
 
-## 🎯 Project Objectives
+## 🎥 YouTube Playlist
+
+- YouTube: [PlayList](https://www.youtube.com/playlist?list=PLIEgi_iIRtLI)
+- This playlist covers all the Windows Server topics listed here.
+
+## 🎯 Objectives
 
 - Understand Windows Server installation and configuration.
 - Build and manage a virtual server infrastructure.
@@ -146,10 +151,6 @@ For each practical lab, I aim to include:
 - Configuration results
 - Troubleshooting notes
 - Also YouTube video 
-
-## 🎥 YouTube Playlis
-
-- YouTube: [My YouTube Channel](https://www.youtube.com/playlist?list=PLIEgi_iIRtLI)
 
 
 ## 📈 Project Progress
