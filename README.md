@@ -15,7 +15,7 @@ All topics will be documented with step-by-step configurations, commands, screen
 ## 🎥 YouTube Playlist
 
 - YouTube: [PlayList](https://www.youtube.com/playlist?list=PLIEgi_iIRtLI)
-- This playlist covers all the Windows Server topics listed here.
+- In this playlist, I cover all the Windows Server topics listed here.
 
 ## 🎯 Objectives
 
